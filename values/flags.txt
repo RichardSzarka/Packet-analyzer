@@ -1,0 +1,7 @@
+0=Fin
+1=Syn
+2=Reset
+3=Push
+4=Acknowledgemnt
+5=Urgent
+6=ECN-Echo
